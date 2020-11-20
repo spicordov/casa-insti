@@ -22,9 +22,8 @@ to do so with:
 
 Switched to branch 'master'
 
-y aquí me he quedado...
-
-
+entonces, empezando la siguiente practica de ramas, entendí que para poder hacer cambios desde cualquier version, hay que crear ramas.
+Voy a carpeta instituto y recupero las etiquetas con git pull --tags origin.
 
 Creacion del readme desde git hub.
 
