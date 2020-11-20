@@ -40,6 +40,7 @@ Aparece en el remoto la nueva rama.
 Cambio a la rama master con un git checkout.
 Desde carpeta instituto bajo la rama creada desde carpetahome, con un git checkout -b nueva-rama, se descarga la nueva rama.
 Desde carpeta home y carpeta instituo hago git status en cada rama para no dejarme nada atras, vuelvo a la master en cada carpeta y hago un git merge nueva-rama para unir las dos ramas y subirlas.
+Las capturas de los graficos de los commits y las ramas, se encuentra en un zip en el remoto.
 
 Bryan Jesus Rodriguez Rios
 
