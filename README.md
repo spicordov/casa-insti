@@ -1,6 +1,6 @@
 # casa-insti
 
-Muy buenas,
+Muy buenas,(En este README están incluidos el desarrollo de la practica de tags y la de ramas)
 En la siguiente práctica he ejecutado dos commits, uno desde carpetahome y otro desde carpeta insti.
 Desde carpetahome hice un git log --pretty=online para ver el listado de commits.
 Nombré al primer commit como v1.0, con la siguiente función: git tag -a v1.0 y cogiendo los 7 primeros digitos de la confirmacion.
@@ -29,6 +29,19 @@ Creacion del readme desde git hub.
 
 Bryan Jesus Rodriguez Rios
 
+Practica de creación de ramas
 
 Estos cambios, son pruebas para el siguiente proyecto de ramas.
+
+Desde carpetahome hice la creacion de nueva rama, con un git branch y nombrando a la nueva rama la cual llamé nueva-rama.
+Hice cambios en el readme, hice el primer commit de la nueva rama.
+Y un git push con el nombre de la nueva rama al final del origin.
+Aparece en el remoto la nueva rama.
+Cambio a la rama master con un git checkout.
+Desde carpeta instituto bajo la rama creada desde carpetahome, con un git checkout -b nueva-rama, se descarga la nueva rama.
+Desde carpeta home y carpeta instituo hago git status en cada rama para no dejarme nada atras, vuelvo a la master en cada carpeta y hago un git merge nueva-rama para unir las dos ramas y subirlas.
+
+Bryan Jesus Rodriguez Rios
+
+
 
