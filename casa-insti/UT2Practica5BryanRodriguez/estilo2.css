@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.menu{
+  text-align: center;
+  width: 20%;
+  height: 400px;
+  float: left;
+  background-color: mediumspringgreen;
+
+}
+.caja{
+  border: 1px solid black;
+  text-align: center;
+  background-color: turquoise;
+  width: 50%;
+  height: 300px;
+  float: left;
+}
+.main{
+  text-align: center;
+  width: 78%;
+  height: 400px;
+  float: right;
+  background-color: mediumpurple;
+}
+.caja1{
+  border: 1px solid black;
+  text-align: center;
+  background-color: turquoise;
+  width: 48%;
+  height: 300px;
+  float: left;
+  margin: 1%;
+}
